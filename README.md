@@ -3,7 +3,7 @@ To check for a cheapest price for a number:
 python3 compare_price.py 268342342322
 ```
 
-To change the default path where price list are located:
+To change the default path where price lists are located:
 ```
 python3 compare_price.py 268342342322 --pricelist-path=pricelists
 ```
